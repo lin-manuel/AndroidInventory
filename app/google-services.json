@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "113414375852",
+    "project_id": "my-awesome-project-565",
+    "storage_bucket": "my-awesome-project-565.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113414375852:android:a8c6539b7f752da5659209",
+        "android_client_info": {
+          "package_name": "com.were.myfirstapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRXHseOhTcWtkiUAM9Pj4v_fOacOYBRO0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
