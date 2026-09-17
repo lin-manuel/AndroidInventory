@@ -289,7 +289,4 @@ Consider adding tests for:
 - Prefer a backend-mediated Cloudinary upload flow for production applications.
 - Keep unsigned Cloudinary presets limited in scope.
 
-## License
-
-No license file is currently included. Add a license before distributing or publishing the project.
 # AndroidInventory
